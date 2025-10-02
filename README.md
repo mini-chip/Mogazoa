@@ -15,17 +15,15 @@ Mogazoa는 음악, 식당, 영화, 강의, 여행지, 전자기기, 호텔, 와�
 
 <br/>
 <br/>
+
 ## 🧑‍💻 What I Built (개인 기여)
 
 ⭐ Compare 흐름 설계: CompareChip A/B, 후보 교체 모달, 선택 상태 동기화
 
 ⭐ 리뷰 작성 모달: React Hook Form 기반 폼 검증, 비동기 제출/토스트 피드백
 
-⭐ 상품 카드/리스트 리팩토링: 스켈레톤, 에러 경계, 빈 상태 UX
-
 ⭐ 페이지네이션/쿼리 동기화: URL 쿼리 ↔ 필터/정렬 상태 연결
 
-⭐ 프로필 편집 모달: 닉네임/이미지 검증, optimistic update
 ## 👭 Team&Role
 - 프론트엔드(FE) 5명
 - My Role : Frontend - Compare A/B 흐름(교체 모달 포함), 리뷰 작성 모달(RHF 검증/비동기 제출), 상품 카드·리스트 리팩토링(스켈레톤/에러/빈 상태), 페이지네이션 & 쿼리 동기화, 프로필 편집 모달(optimistic update)
